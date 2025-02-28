@@ -1,6 +1,9 @@
 
 # AQUASENSE
 
+![AquaSense](https://github.com/AritraBiswas9788/Public-Assets/blob/main/Aquasense.png?raw=true)
+
+
 A mobile application that crowd sources water-related problems from around a community, open sources data, etc. and displays them on a map.
 
 
